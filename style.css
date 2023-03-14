@@ -23,35 +23,17 @@ h3 {
     color: gold;
 }
 
-.header {
-    padding: 50px;
-    width: 100%;
-    /* background-color: blue;  */
-    height: 110vh;
-}
-.center-wrap {
-    margin: auto;
-    padding: 5px;
-    max-width:80%;
-    height: 100vh;
-    /* background-color: red; */
-}
-.left-head {
-    width: 40%;
-    float: left;
-
-}
 p {
     font-size: 19px;
     line-height: 1.4;
     margin: 10px 0;
 }
-.right-head {
-    width: 45%;
-    float: right;
+.width-half {
+    width: 40%;
+    float: left;
     padding: 20px;
 }
-.right-head .profile {
+.profile {
     width: 500px;
 }
 
