@@ -19,10 +19,14 @@ h3 {
     font-size: 24px;
 }
 
-.text-highlight {
+.text-highlight,
+.exp-area h3 {
     color: gold;
 }
-
+a{
+    text-decoration: none;
+    color: #000;
+}
 p {
     font-size: 19px;
     line-height: 1.4;
@@ -41,7 +45,8 @@ p {
 }
 .section {
     padding-top: 50px;
-    padding-bottom: 100px;
+    margin-bottom: 90px;
+
 }
 .width-half {
     width: 40%;
@@ -71,4 +76,8 @@ p {
     background-image: url('images/dream-bg.png');
     background-repeat: no-repeat;
     background-position: right;
+}
+
+.exp-area {
+    padding-bottom: 200px;
 }
