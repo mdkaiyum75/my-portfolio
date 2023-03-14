@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: sans-serif;
+
+
+}
+
+
+h1 {
+    font-size: 55px;
+    padding: 10px 0;
+}
+h3 {
+    margin:30px 0;
+    font-size: 24px;
+}
+
+.text-highlight {
+    color: gold;
+}
+
+.header {
+    padding: 50px;
+    width: 100%;
+    /* background-color: blue;  */
+    height: 110vh;
+}
+.center-wrap {
+    margin: auto;
+    padding: 5px;
+    width: 1200px;
+    height: 100vh;
+    /* background-color: red; */
+}
+.left-head {
+    width: 40%;
+    float: left;
+
+}
+p {
+    font-size: 19px;
+    line-height: 1.4;
+    margin: 10px 0;
+}
+.right-head {
+    width: 45%;
+    float: right;
+    padding: 20px;
+}
+.right-head .profile {
+    width: 500px;
+}
+
+.btn {
+    font-size: 18px;
+    padding: 15px 25px;
+    background-color: gold;
+    outline: none;
+    border: none;
+    border-radius: 6px;
+    margin-top: 10px;
+    cursor: pointer;
+}
